@@ -60,8 +60,14 @@ P.S. This project was built for the BuildOn hackathon on Devfolio.
 
 ### Built With
 
+### Contracts With
 - Solidity
 - Foundry
+
+### Interface With
+- Nextjs
+- Typescript
+- Wagmi
 
 <!-- GETTING STARTED -->
 
@@ -69,17 +75,17 @@ P.S. This project was built for the BuildOn hackathon on Devfolio.
 
 ### Prerequisites
 
-Make sure you have git, rust, and foundry installed and configured on your system.
+Make sure you have git, rust, and foundry installed and configured on your system
 
 ### Installation
 
 Clone the repo,
 
 ```shell
-git clone https://github.com/mgnfy-view/pay-streams.git
+git clone https://github.com/pegasus4me/PyStream.git 
 ```
 
-cd into the repo, and install the necessary dependencies
+cd into the smart contracts repo `pay-streams-main` , and install the necessary dependencies
 
 ```shell
 cd pay-streams
@@ -92,7 +98,15 @@ Run tests by executing
 forge test
 ```
 
-That's it, you are good to go now!
+# for the interface
+cd into the smart contracts repo `paystream-interface-main` , and install the necessary dependencies
+
+```shell
+npm install 
+```
+That's it, you are good to go now for smart contracts and the interface!
+
+
 
 <!-- ROADMAP -->
 
@@ -100,7 +114,7 @@ That's it, you are good to go now!
 
 -   [x] Smart contract development
 -   [x] Unit tests
--   [x] Write a good README.md
+
 
 See the [open issues](https://github.com/mgnfy-view/pay-streams/issues) for a full list of proposed features (and known issues).
 
