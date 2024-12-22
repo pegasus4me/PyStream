@@ -1,0 +1,27 @@
+{
+  "name": "pystream",
+  "version": "0.0.1",
+  "description": "PyStream is a it's enable peer to peer money streaming, and it's highly customisable thanks to smart contract hooks, ofc it's can be used to stream any token",
+  "main": "./Pystream/packages",
+  "scripts": {
+    "dev:frontend": "cd ./Pystream/packages/frontend && npm run dev",
+    "build:frontend": "cd ./Pystream/packages/frontend && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pegasus4me/PyStream.git"
+  },
+  "keywords": [
+    "stream",
+    "peer2peer",
+    "stablecoins",
+    "tokens",
+    "monad"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pegasus4me/PyStream/issues"
+  },
+  "homepage": "https://github.com/pegasus4me/PyStream#readme"
+}
