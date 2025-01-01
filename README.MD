@@ -9,14 +9,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <!-- <a href="https://github.com/mgnfy-view/pay-streams">
-    <img src="assets/icon.svg" alt="Logo" width="80" height="80">
-  </a> -->
-
   <h3 align="center">PayStreams</h3>
 
   <p align="center">
-    PayStreams is a payment streaming service supercharged with hooks
+    PayStreams is a payment streaming service supercharged with hooks and vaults
     <br />
     <a href="https://github.com/mgnfy-view/pay-streams/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
