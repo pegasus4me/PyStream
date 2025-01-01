@@ -1,25 +1,26 @@
 {
-  "name": "pystream",
+  "name": "paystreams",
   "version": "0.0.1",
-  "description": "PyStream is a it's enable peer to peer money streaming, and it's highly customisable thanks to smart contract hooks, ofc it's can be used to stream any token",
-  "main": "./Pystream/packages",
+  "description": "PayStreams is a peer-to-peer payment streaming protocol supercharged with hooks and vaults",
+  "main": "./packages",
   "scripts": {
-    "dev:frontend": "cd ./Pystream/packages/frontend && npm run dev",
-    "build:frontend": "cd ./Pystream/packages/frontend && npm run build"
+    "dev:frontend": "cd ./packages/frontend && npm run dev",
+    "build:frontend": "cd ./packages/frontend && npm run build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pegasus4me/PyStream.git"
   },
   "keywords": [
-    "stream",
+    "streams",
     "peer2peer",
     "stablecoins",
     "tokens",
-    "monad"
+    "monad",
+    "payrolls"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/pegasus4me/PyStream/issues"
   },
