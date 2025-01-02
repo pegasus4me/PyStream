@@ -102,7 +102,7 @@ Deploy to any evm network using,
 forge script script/DeployPayStreams.s.sol --broadcast --rpc-url <your-rpc-url> --private-key <your-private-key>
 ```
 
-# For the interface
+### For the interface
 
 cd into the frontend repo, and install the necessary dependencies,
 
