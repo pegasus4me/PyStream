@@ -110,7 +110,7 @@ cd into the frontend repo, and install the necessary dependencies,
 cd pay-streams/packages/frontend
 npm install
 ```
-That's it, you are good to go now for smart contracts and the interface!
+That's it, you are good to go for smart contracts and the interface!
 
 <!-- ROADMAP -->
 
@@ -152,7 +152,7 @@ You can contact soso, or mgnfy-view for further communications.
 
 - mgnfy-view: https://linktr.ee/mgnfy.view
 
-- soso: https://discord.com/users/608345817190891534
+- soso: touilsafoan@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
