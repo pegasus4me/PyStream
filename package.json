@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pegasus4me/PyStream.git"
+    "url": "git+https://github.com/pegasus4me/pay-streams.git"
   },
   "keywords": [
     "streams",
@@ -22,7 +22,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pegasus4me/PyStream/issues"
+    "url": "https://github.com/pegasus4me/pay-streams/issues"
   },
-  "homepage": "https://github.com/pegasus4me/PyStream#readme"
+  "homepage": "https://github.com/pegasus4me/pay-streams#readme"
 }
